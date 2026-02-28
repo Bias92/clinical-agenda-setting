@@ -1,0 +1,55 @@
+{
+  "id": "case_07",
+  "annotations": [
+    {
+      "line_idx": 1,
+      "type": "agenda_item",
+      "summary": "Patient reports persistent anxiety and inability to relax for one month."
+    },
+    {
+      "line_idx": 3,
+      "type": "detail",
+      "summary": "Symptoms include racing heart, sweaty palms, chest tightness, and sense of impending doom."
+    },
+    {
+      "line_idx": 5,
+      "type": "detail",
+      "summary": "Panic attack at grocery store with palpitations, dyspnea, and dizziness."
+    },
+    {
+      "line_idx": 7,
+      "type": "detail",
+      "summary": "Avoidance behavior, missed three days of work last week."
+    },
+    {
+      "line_idx": 9,
+      "type": "detail",
+      "summary": "Severe insomnia with early morning awakening at 3-4 AM."
+    },
+    {
+      "line_idx": 11,
+      "type": "detail",
+      "summary": "Mother diagnosed with cancer two months ago. Patient is caregiver while working full time."
+    },
+    {
+      "line_idx": 13,
+      "type": "detail",
+      "summary": "Poor appetite with 8-pound weight loss in one month."
+    },
+    {
+      "line_idx": 15,
+      "type": "detail",
+      "summary": "Increased alcohol and caffeine use to cope."
+    },
+    {
+      "line_idx": 17,
+      "type": "detail",
+      "summary": "Previous depression treated with Lexapro five years ago."
+    },
+    {
+      "line_idx": 19,
+      "type": "detail",
+      "summary": "Denies suicidal ideation."
+    }
+  ]
+}

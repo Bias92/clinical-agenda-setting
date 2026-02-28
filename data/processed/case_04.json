@@ -1,0 +1,77 @@
+{
+  "id": "case_04",
+  "lines": [
+    {
+      "speaker": "Provider",
+      "text": "How have things been going with your diabetes management?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "Not great. My blood sugars have been all over the place and I'm feeling really tired all the time."
+    },
+    {
+      "speaker": "Provider",
+      "text": "What have your blood sugar readings been like?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "In the mornings they're around 180 to 200. After meals they sometimes go up to 250 or 300."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Are you taking your medications as prescribed?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "I take metformin twice a day but I miss the evening dose two or three times a week."
+    },
+    {
+      "speaker": "Provider",
+      "text": "What about your diet?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "I've been eating out a lot because of work. I know I'm eating too many carbs."
+    },
+    {
+      "speaker": "Provider",
+      "text": "How about exercise?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "I try to walk for about 20 minutes a few times a week but I just don't have the energy."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Any changes in your vision?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "My vision has been blurry in the mornings. It usually clears up after a couple of hours."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Any numbness or tingling in your hands or feet?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "My feet have been feeling numb at night for a few weeks now."
+    },
+    {
+      "speaker": "Provider",
+      "text": "When was your last eye exam?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "Over a year ago."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Let me check your A1C today and we'll review your treatment plan."
+    },
+    {
+      "speaker": "Patient",
+      "text": "I want to get this under control. I'm worried about the long-term effects."
+    }
+  ]
+}

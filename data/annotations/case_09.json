@@ -1,0 +1,50 @@
+{
+  "id": "case_09",
+  "annotations": [
+    {
+      "line_idx": 1,
+      "type": "agenda_item",
+      "summary": "Patient presents with spreading itchy rash on arms and torso for one week."
+    },
+    {
+      "line_idx": 3,
+      "type": "detail",
+      "summary": "Rash started on forearms, spread to chest and stomach. Red raised bumps."
+    },
+    {
+      "line_idx": 5,
+      "type": "detail",
+      "summary": "Started amoxicillin 10 days ago for urinary tract infection."
+    },
+    {
+      "line_idx": 7,
+      "type": "detail",
+      "summary": "No prior medication reactions."
+    },
+    {
+      "line_idx": 9,
+      "type": "detail",
+      "summary": "No anaphylaxis signs: no breathing difficulty or facial swelling."
+    },
+    {
+      "line_idx": 11,
+      "type": "detail",
+      "summary": "Severe nocturnal itching causing excoriations from scratching."
+    },
+    {
+      "line_idx": 13,
+      "type": "detail",
+      "summary": "Using hydrocortisone cream with minimal effect and Benadryl for sleep."
+    },
+    {
+      "line_idx": 15,
+      "type": "detail",
+      "summary": "Low-grade fever of 99 degrees and joint achiness."
+    },
+    {
+      "line_idx": 17,
+      "type": "detail",
+      "summary": "Known ragweed allergy, no known drug allergies."
+    }
+  ]
+}

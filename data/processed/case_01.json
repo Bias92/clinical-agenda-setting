@@ -1,0 +1,101 @@
+{
+  "id": "case_01",
+  "lines": [
+    {
+      "speaker": "Provider",
+      "text": "So what brings you in here today?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "I've been having this persistent cough for about three weeks now, and I'm also getting shortness of breath."
+    },
+    {
+      "speaker": "Provider",
+      "text": "I see. When did the cough first start?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "It started about three weeks ago, maybe a little more. It's been getting worse lately."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Is it a dry cough or are you producing any mucus?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "It's mostly dry, but sometimes I notice a little bit of yellowish mucus."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Have you had any fever or chills?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "I've had some low-grade fevers, maybe around 99 to 100 degrees."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Any chest pain with the coughing?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "A little bit, yeah. It hurts when I take a deep breath sometimes."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Are you a smoker or have you been around anyone who is sick?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "I quit smoking about two years ago. I smoked for about 15 years before that. And my coworker was sick last month with something similar."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Do you have any allergies or are you taking any medications currently?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "I take lisinopril for my blood pressure, and I have a seasonal allergy to pollen."
+    },
+    {
+      "speaker": "Provider",
+      "text": "How is your blood pressure been? Have you been checking it at home?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "It's been okay, usually around 130 over 85. I check it once a week."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Have you noticed any wheezing or difficulty breathing at night?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "Actually yes, I've been waking up at night a couple of times because I feel like I can't breathe well."
+    },
+    {
+      "speaker": "Provider",
+      "text": "How about your appetite and weight? Any changes recently?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "My appetite has been down a bit, but I haven't really noticed any weight loss."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Any recent travel or exposure to chemicals or dust at work?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "No travel, but I work in a warehouse and there's a lot of dust there."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Alright. Let me listen to your lungs and we'll go from there."
+    },
+    {
+      "speaker": "Patient",
+      "text": "Sounds good. I'm just worried it might be something serious since it's been going on so long."
+    }
+  ]
+}

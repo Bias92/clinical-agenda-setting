@@ -1,0 +1,50 @@
+{
+  "id": "case_06",
+  "annotations": [
+    {
+      "line_idx": 1,
+      "type": "agenda_item",
+      "summary": "Patient presents with worsening stomach pain and bloating for three weeks."
+    },
+    {
+      "line_idx": 3,
+      "type": "detail",
+      "summary": "Pain in upper abdomen, sometimes migrating to right side."
+    },
+    {
+      "line_idx": 5,
+      "type": "detail",
+      "summary": "Intermittent pain worsened by large or fatty meals."
+    },
+    {
+      "line_idx": 7,
+      "type": "detail",
+      "summary": "Post-meal nausea, loose stools 3-4 times per week."
+    },
+    {
+      "line_idx": 9,
+      "type": "detail",
+      "summary": "No blood in stool."
+    },
+    {
+      "line_idx": 11,
+      "type": "detail",
+      "summary": "Heartburn and burning chest sensation after eating, worse when lying down."
+    },
+    {
+      "line_idx": 13,
+      "type": "detail",
+      "summary": "Diet high in fast food, spicy food, coffee, and soda."
+    },
+    {
+      "line_idx": 15,
+      "type": "detail",
+      "summary": "Takes daily aspirin and Tums almost daily for two weeks."
+    },
+    {
+      "line_idx": 17,
+      "type": "detail",
+      "summary": "Unintentional weight loss of 5 pounds in one month."
+    }
+  ]
+}

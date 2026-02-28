@@ -1,0 +1,60 @@
+{
+  "id": "case_01",
+  "annotations": [
+    {
+      "line_idx": 1,
+      "type": "agenda_item",
+      "summary": "Patient is experiencing persistent cough with shortness of breath for three weeks."
+    },
+    {
+      "line_idx": 3,
+      "type": "detail",
+      "summary": "Cough started approximately three weeks ago and has been worsening."
+    },
+    {
+      "line_idx": 5,
+      "type": "detail",
+      "summary": "Cough is mostly dry with occasional yellowish mucus production."
+    },
+    {
+      "line_idx": 7,
+      "type": "detail",
+      "summary": "Patient has been experiencing low-grade fevers around 99-100 degrees."
+    },
+    {
+      "line_idx": 9,
+      "type": "detail",
+      "summary": "Patient reports chest pain with deep breathing during coughing."
+    },
+    {
+      "line_idx": 11,
+      "type": "detail",
+      "summary": "Patient is a former smoker who quit two years ago after 15 years. Coworker was recently sick with similar symptoms."
+    },
+    {
+      "line_idx": 13,
+      "type": "detail",
+      "summary": "Patient takes lisinopril for blood pressure and has seasonal pollen allergy."
+    },
+    {
+      "line_idx": 15,
+      "type": "detail",
+      "summary": "Blood pressure readings around 130/85, checked weekly at home."
+    },
+    {
+      "line_idx": 17,
+      "type": "detail",
+      "summary": "Patient experiences nocturnal dyspnea, waking up at night with difficulty breathing."
+    },
+    {
+      "line_idx": 19,
+      "type": "detail",
+      "summary": "Decreased appetite but no noticeable weight loss."
+    },
+    {
+      "line_idx": 21,
+      "type": "detail",
+      "summary": "No recent travel but occupational dust exposure in warehouse work environment."
+    }
+  ]
+}

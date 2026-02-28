@@ -1,0 +1,50 @@
+{
+  "id": "case_08",
+  "annotations": [
+    {
+      "line_idx": 1,
+      "type": "agenda_item",
+      "summary": "Patient reports right knee pain for six weeks limiting stair climbing."
+    },
+    {
+      "line_idx": 3,
+      "type": "detail",
+      "summary": "Gradual onset from recreational basketball, no specific injury."
+    },
+    {
+      "line_idx": 5,
+      "type": "detail",
+      "summary": "Pain localized to medial knee and under kneecap, worse with bending."
+    },
+    {
+      "line_idx": 7,
+      "type": "detail",
+      "summary": "Post-exercise swelling that resolves by next day."
+    },
+    {
+      "line_idx": 9,
+      "type": "detail",
+      "summary": "Knee buckling episodes and audible popping or clicking."
+    },
+    {
+      "line_idx": 11,
+      "type": "detail",
+      "summary": "Baseline pain 4/10, increases to 7-8 after basketball."
+    },
+    {
+      "line_idx": 13,
+      "type": "detail",
+      "summary": "Self-treating with ice, ibuprofen, and knee brace."
+    },
+    {
+      "line_idx": 15,
+      "type": "detail",
+      "summary": "Age 38, father had knee replacement at 60 for arthritis."
+    },
+    {
+      "line_idx": 17,
+      "type": "detail",
+      "summary": "210 lbs at 5'10, gained 20 pounds over two years."
+    }
+  ]
+}

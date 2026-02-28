@@ -1,0 +1,63 @@
+# ============================================================
+# Clinical Agenda Setting - Experiment Configuration
+# Paper: "Towards a Real-time Clinical Agenda Setting System"
+# ============================================================
+
+# --- Model Settings ---
+models:
+  gpt35:
+    name: "gpt-3.5-turbo"
+    temperature: 0          # 논문 Section 4.4: "set temperature to zero"
+    max_tokens: 1024
+    provider: "openai"
+
+# --- Data Settings ---
+data:
+  raw_dir: "data/raw"
+  processed_dir: "data/processed"
+  annotations_dir: "data/annotations"
+  # 데이터 포맷: 각 transcript는 JSON 파일
+  # { "id": "case_01", "lines": [{"speaker": "Provider", "text": "..."}, ...] }
+  # annotation 포맷:
+  # { "id": "case_01", "annotations": [{"line_idx": 3, "type": "agenda_item", "summary": "..."}, ...] }
+
+# --- Experiment Settings ---
+experiments:
+  baseline:                  # Section 4.2 (Table 1)
+    description: "Full transcript input → agenda summary"
+
+  input_lines:               # Section 4.3 (Table 2)
+    chunk_sizes: [2, 5, 10, 20]
+    model: "gpt35"
+
+  realtime_sim:              # Section 4.4 (Table 3)
+    context_sizes: [0, 1, 20, 50, 100, "max"]
+    model: "gpt35"
+
+  context_agg:               # Section 4.5 (Table 4)
+    strategies:
+      - aggregation: "sliding_window"
+        input_size: 1
+        context_sizes: [20, 50]
+      - aggregation: "growing_window"
+        input_size: 1
+        context_sizes: [20, 50]
+      - aggregation: "growing_window"
+        input_size: 5
+        context_sizes: [5]
+    model: "gpt35"
+
+# --- Evaluation Settings ---
+evaluation:
+  metrics:
+    - rouge_l
+    - bleu
+    - bertscore
+    - semscore
+  bertscore_model: "roberta-large"
+  semscore_model: "all-MiniLM-L6-v2"
+
+# --- Output Settings ---
+output:
+  results_dir: "results"
+  save_predictions: true

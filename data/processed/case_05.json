@@ -1,0 +1,85 @@
+{
+  "id": "case_05",
+  "lines": [
+    {
+      "speaker": "Provider",
+      "text": "I understand you've been having chest pain. Tell me about that."
+    },
+    {
+      "speaker": "Patient",
+      "text": "I've been getting pressure in my chest when I climb stairs or walk fast. It's been happening for about a week."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Is it sharp, dull, or more like pressure?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "It's like a heaviness right in the center of my chest. Like someone is sitting on it."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Does the pain radiate anywhere?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "A couple of times I felt it going into my left arm."
+    },
+    {
+      "speaker": "Provider",
+      "text": "How long does each episode last?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "Usually about 5 to 10 minutes. It goes away when I stop and rest."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Any shortness of breath, sweating, or nausea?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "I get short of breath and sweaty when it happens. No nausea."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Any history of heart disease or high cholesterol?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "My cholesterol was around 240 last time. And my father had a heart attack at 55."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Are you taking any medications for cholesterol?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "I stopped atorvastatin about six months ago because of muscle cramps."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Do you smoke or drink?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "I don't smoke but I have a couple of beers most nights."
+    },
+    {
+      "speaker": "Provider",
+      "text": "How old are you?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "I'm 52."
+    },
+    {
+      "speaker": "Provider",
+      "text": "I want to run an EKG right now and order some blood work."
+    },
+    {
+      "speaker": "Patient",
+      "text": "Whatever you think is best, doc."
+    }
+  ]
+}

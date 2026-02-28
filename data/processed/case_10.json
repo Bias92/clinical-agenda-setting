@@ -1,0 +1,85 @@
+{
+  "id": "case_10",
+  "lines": [
+    {
+      "speaker": "Provider",
+      "text": "What brings you in today?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "I've been extremely tired for two to three months. No matter how much I sleep I wake up exhausted. And I've gained weight without changing my diet."
+    },
+    {
+      "speaker": "Provider",
+      "text": "How much weight have you gained?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "About 15 pounds in the last three months with no changes in eating or exercise."
+    },
+    {
+      "speaker": "Provider",
+      "text": "How many hours of sleep are you getting?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "Eight to 9 hours but I still need more. I could nap anytime during the day."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Any changes in your skin, hair, or sensitivity to cold?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "My skin is really dry and flaky. My hair seems thinner. And I'm always cold even when everyone else is comfortable."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Any changes in mood or concentration?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "I feel foggy and can't think clearly. I've been feeling down and not interested in things I usually enjoy."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Any swelling in your face, hands, or feet?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "My face looks puffy in the mornings. My rings are feeling tight."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Any changes in your menstrual cycle?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "My periods have been heavier and more irregular. They used to be very regular."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Family history of thyroid problems?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "My mother and sister both have hypothyroidism. My mom takes Synthroid."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Any constipation?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "Yes, I used to go every day and now it's every three days."
+    },
+    {
+      "speaker": "Provider",
+      "text": "I'd like to order thyroid function tests."
+    },
+    {
+      "speaker": "Patient",
+      "text": "That makes sense given my family history."
+    }
+  ]
+}

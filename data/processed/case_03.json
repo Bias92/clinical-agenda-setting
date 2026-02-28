@@ -1,0 +1,85 @@
+{
+  "id": "case_03",
+  "lines": [
+    {
+      "speaker": "Provider",
+      "text": "What brings you in today?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "I've been having some really bad lower back pain for about two months now. It's getting to the point where it's hard to do my daily activities."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Can you point to where exactly the pain is?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "It's right here in the lower back, kind of across the whole area. Sometimes it shoots down my left leg."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Does the pain go all the way down to your foot or does it stop at the knee?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "It usually stops around my knee, but once or twice it went all the way down to my ankle."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Did anything specific trigger the pain?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "I was helping my friend move about two months ago and I felt something pull in my back."
+    },
+    {
+      "speaker": "Provider",
+      "text": "On a scale of 1 to 10, how bad is the pain?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "On a regular day it's about a 5 or 6, but when I bend over or sit for too long it goes up to an 8."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Have you noticed any numbness or weakness in your legs?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "Yeah, my left foot sometimes feels tingly, like pins and needles."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Any changes in your bladder or bowel function?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "No, that's all been normal."
+    },
+    {
+      "speaker": "Provider",
+      "text": "What have you been doing to manage the pain?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "Tylenol and a heating pad. I also tried some stretches but they didn't help much."
+    },
+    {
+      "speaker": "Provider",
+      "text": "What kind of work do you do?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "I work in an office, sitting at a desk for about 8 to 10 hours a day."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Let me examine your back and test your reflexes."
+    },
+    {
+      "speaker": "Patient",
+      "text": "It's starting to affect my sleep too."
+    }
+  ]
+}

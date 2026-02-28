@@ -1,0 +1,85 @@
+{
+  "id": "case_07",
+  "lines": [
+    {
+      "speaker": "Provider",
+      "text": "How are you doing today?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "I've been feeling really anxious for the past month. I can't relax no matter what I do."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Can you tell me more about what the anxiety feels like?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "My heart races, I get sweaty palms, and there's tightness in my chest. I feel like something terrible is about to happen."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Have you had any panic attacks?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "Two weeks ago at the grocery store my heart was pounding, I couldn't breathe, and I felt dizzy."
+    },
+    {
+      "speaker": "Provider",
+      "text": "How is this affecting your daily life?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "I've been avoiding going out. I called in sick to work three times last week."
+    },
+    {
+      "speaker": "Provider",
+      "text": "How has your sleep been?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "I lie in bed for hours worrying. When I fall asleep I wake up at 3 or 4 AM."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Is there anything specific causing you stress?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "My mom was diagnosed with cancer two months ago. I'm trying to help care for her while working full time."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Any changes in eating habits?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "I barely eat. I've lost about 8 pounds in the last month."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Are you using any substances to cope?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "More wine at night, maybe a bottle every couple of days. And lots of coffee."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Have you been treated for anxiety or depression before?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "I was on Lexapro about five years ago for depression. Stopped after a year."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Any thoughts of hurting yourself?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "No, nothing like that. Just overwhelmed and exhausted."
+    }
+  ]
+}

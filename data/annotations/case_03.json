@@ -1,0 +1,55 @@
+{
+  "id": "case_03",
+  "annotations": [
+    {
+      "line_idx": 1,
+      "type": "agenda_item",
+      "summary": "Patient presents with severe lower back pain for two months affecting daily activities."
+    },
+    {
+      "line_idx": 3,
+      "type": "detail",
+      "summary": "Pain across entire lower back with radiation down the left leg."
+    },
+    {
+      "line_idx": 5,
+      "type": "detail",
+      "summary": "Radiating pain usually stops at knee but occasionally extends to ankle."
+    },
+    {
+      "line_idx": 7,
+      "type": "detail",
+      "summary": "Pain started two months ago after helping a friend move."
+    },
+    {
+      "line_idx": 9,
+      "type": "detail",
+      "summary": "Baseline pain 5-6 out of 10, increases to 8 with bending or prolonged sitting."
+    },
+    {
+      "line_idx": 11,
+      "type": "detail",
+      "summary": "Tingling and pins-and-needles sensation in left foot."
+    },
+    {
+      "line_idx": 13,
+      "type": "detail",
+      "summary": "No bladder or bowel dysfunction."
+    },
+    {
+      "line_idx": 15,
+      "type": "detail",
+      "summary": "Managing with Tylenol, heating pad, and stretches with limited relief."
+    },
+    {
+      "line_idx": 17,
+      "type": "detail",
+      "summary": "Sedentary office work with 8-10 hours daily sitting."
+    },
+    {
+      "line_idx": 19,
+      "type": "detail",
+      "summary": "Back pain also affecting sleep quality."
+    }
+  ]
+}

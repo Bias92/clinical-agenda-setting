@@ -1,0 +1,93 @@
+{
+  "id": "case_02",
+  "lines": [
+    {
+      "speaker": "Provider",
+      "text": "Good morning. How can I help you today?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "Hi, I've been having really bad headaches for the past two weeks. They come almost every day now."
+    },
+    {
+      "speaker": "Provider",
+      "text": "I'm sorry to hear that. Can you describe the headaches? Where do you feel the pain?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "It's usually on both sides of my head, kind of like a tight band around my forehead. Sometimes it goes to the back of my neck too."
+    },
+    {
+      "speaker": "Provider",
+      "text": "How would you rate the pain on a scale from 1 to 10?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "It's usually about a 6 or 7. Sometimes it gets up to an 8 when it's really bad."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Do you notice anything that triggers the headaches?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "Stress seems to make them worse. I've been under a lot of pressure at work lately. Also, I've been spending a lot of time on the computer."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Any nausea, vomiting, or sensitivity to light?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "No nausea or vomiting, but I do get a bit sensitive to bright lights when the headache is bad."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Have you tried any over-the-counter medications?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "I've been taking ibuprofen, about 400mg, two or three times a day. It helps a little but doesn't fully go away."
+    },
+    {
+      "speaker": "Provider",
+      "text": "How's your sleep been? Are you getting enough rest?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "Honestly, not great. I've been sleeping maybe 5 hours a night. I have trouble falling asleep because of the stress."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Do you drink caffeine regularly?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "Yeah, I probably have about 4 or 5 cups of coffee a day. Sometimes more when I'm really tired."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Any changes in your vision or any numbness or tingling?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "No, nothing like that."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Any history of headaches or migraines in your family?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "My mom gets migraines. She's been dealing with them her whole life."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Okay, let me do a quick neurological exam and we'll talk about a plan."
+    },
+    {
+      "speaker": "Patient",
+      "text": "That would be great. I just want to find something that works because it's really affecting my work."
+    }
+  ]
+}

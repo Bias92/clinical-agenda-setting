@@ -1,0 +1,55 @@
+{
+  "id": "case_02",
+  "annotations": [
+    {
+      "line_idx": 1,
+      "type": "agenda_item",
+      "summary": "Patient is experiencing daily severe headaches for the past two weeks."
+    },
+    {
+      "line_idx": 3,
+      "type": "detail",
+      "summary": "Headaches are bilateral with tight band sensation around forehead, sometimes extending to back of neck."
+    },
+    {
+      "line_idx": 5,
+      "type": "detail",
+      "summary": "Pain severity is usually 6-7 out of 10, sometimes reaching 8."
+    },
+    {
+      "line_idx": 7,
+      "type": "detail",
+      "summary": "Headaches triggered by stress and prolonged computer use at work."
+    },
+    {
+      "line_idx": 9,
+      "type": "detail",
+      "summary": "No nausea or vomiting but photosensitivity present during severe episodes."
+    },
+    {
+      "line_idx": 11,
+      "type": "detail",
+      "summary": "Patient taking ibuprofen 400mg two to three times daily with partial relief."
+    },
+    {
+      "line_idx": 13,
+      "type": "detail",
+      "summary": "Patient sleeping only about 5 hours per night due to stress-related insomnia."
+    },
+    {
+      "line_idx": 15,
+      "type": "detail",
+      "summary": "High caffeine intake of 4-5 cups of coffee daily."
+    },
+    {
+      "line_idx": 17,
+      "type": "detail",
+      "summary": "No vision changes, numbness, or tingling reported."
+    },
+    {
+      "line_idx": 19,
+      "type": "detail",
+      "summary": "Family history of migraines in mother."
+    }
+  ]
+}

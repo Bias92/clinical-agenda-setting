@@ -1,0 +1,50 @@
+{
+  "id": "case_05",
+  "annotations": [
+    {
+      "line_idx": 1,
+      "type": "agenda_item",
+      "summary": "Patient presents with exertional chest pressure for one week."
+    },
+    {
+      "line_idx": 3,
+      "type": "detail",
+      "summary": "Chest sensation described as heaviness in center of chest."
+    },
+    {
+      "line_idx": 5,
+      "type": "detail",
+      "summary": "Pain occasionally radiates to left arm."
+    },
+    {
+      "line_idx": 7,
+      "type": "detail",
+      "summary": "Episodes last 5-10 minutes and resolve with rest."
+    },
+    {
+      "line_idx": 9,
+      "type": "detail",
+      "summary": "Associated shortness of breath and sweating, no nausea."
+    },
+    {
+      "line_idx": 11,
+      "type": "detail",
+      "summary": "Cholesterol around 240. Father had heart attack at age 55."
+    },
+    {
+      "line_idx": 13,
+      "type": "detail",
+      "summary": "Discontinued atorvastatin six months ago due to muscle cramps."
+    },
+    {
+      "line_idx": 15,
+      "type": "detail",
+      "summary": "Non-smoker, drinks a couple of beers most nights."
+    },
+    {
+      "line_idx": 17,
+      "type": "detail",
+      "summary": "Patient is 52 years old."
+    }
+  ]
+}

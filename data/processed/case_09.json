@@ -1,0 +1,85 @@
+{
+  "id": "case_09",
+  "lines": [
+    {
+      "speaker": "Provider",
+      "text": "What's the reason for your visit today?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "I've developed this rash on my arms and torso about a week ago and it's really itchy and spreading."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Where did it start?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "My forearms, then spread to chest and stomach. Red raised bumps everywhere."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Any new medications, soaps, or foods recently?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "I started amoxicillin about 10 days ago for a urinary tract infection."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Have you ever had a medication reaction before?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "No, this is the first time."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Any difficulty breathing or swelling of face or throat?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "No, just the rash and itching."
+    },
+    {
+      "speaker": "Provider",
+      "text": "How bad is the itching?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "Really bad especially at night. I'm scratching so much some spots are bleeding."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Have you tried anything for it?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "Hydrocortisone cream and Benadryl. Benadryl helps me sleep but the cream doesn't do much."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Any fever or joint pain?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "Low fever around 99 degrees and my joints have been achy."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Any known allergies?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "Just seasonal allergies to ragweed. No drug allergies that I know of."
+    },
+    {
+      "speaker": "Provider",
+      "text": "I'd like to stop the amoxicillin and switch antibiotics."
+    },
+    {
+      "speaker": "Patient",
+      "text": "Will the rash go away once I stop the medication?"
+    }
+  ]
+}

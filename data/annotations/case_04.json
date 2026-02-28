@@ -1,0 +1,45 @@
+{
+  "id": "case_04",
+  "annotations": [
+    {
+      "line_idx": 1,
+      "type": "agenda_item",
+      "summary": "Patient reports poor diabetes management with unstable blood sugars and persistent fatigue."
+    },
+    {
+      "line_idx": 3,
+      "type": "detail",
+      "summary": "Fasting glucose 180-200, post-meal readings reaching 250-300."
+    },
+    {
+      "line_idx": 5,
+      "type": "detail",
+      "summary": "On metformin twice daily but missing evening dose 2-3 times per week."
+    },
+    {
+      "line_idx": 7,
+      "type": "detail",
+      "summary": "Frequent eating out with excessive carbohydrate intake."
+    },
+    {
+      "line_idx": 9,
+      "type": "detail",
+      "summary": "Minimal exercise, walking 20 minutes a few times per week."
+    },
+    {
+      "line_idx": 11,
+      "type": "detail",
+      "summary": "Morning blurry vision that resolves after a couple of hours."
+    },
+    {
+      "line_idx": 13,
+      "type": "detail",
+      "summary": "Numbness in feet at night for past few weeks."
+    },
+    {
+      "line_idx": 15,
+      "type": "detail",
+      "summary": "Last eye exam over a year ago."
+    }
+  ]
+}

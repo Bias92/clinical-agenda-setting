@@ -1,0 +1,85 @@
+{
+  "id": "case_08",
+  "lines": [
+    {
+      "speaker": "Provider",
+      "text": "What's going on today?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "My right knee has been really bothering me for six weeks. I can barely walk up stairs."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Did anything trigger the pain?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "I play basketball on weekends and it just started hurting gradually. No specific injury."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Where exactly on the knee do you feel it?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "Inside part of my knee and underneath the kneecap. Worse when I bend it."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Any swelling, redness, or warmth?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "It swells up after basketball. Usually goes down by next day."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Does the knee ever give way or lock up?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "Sometimes it feels like it might buckle. And I hear popping or clicking sounds."
+    },
+    {
+      "speaker": "Provider",
+      "text": "How would you rate the pain daily?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "Regular day maybe a 4, after basketball it's a 7 or 8."
+    },
+    {
+      "speaker": "Provider",
+      "text": "What have you been doing to treat it?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "Ice packs, ibuprofen, and a knee brace from the pharmacy."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Any family history of knee problems?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "I'm 38. My dad had knee replacement at 60 for bad arthritis."
+    },
+    {
+      "speaker": "Provider",
+      "text": "How's your weight?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "210 at 5'10. Gained about 20 pounds in the last two years."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Let me examine the knee. We may need imaging."
+    },
+    {
+      "speaker": "Patient",
+      "text": "I just want to keep playing basketball if possible."
+    }
+  ]
+}

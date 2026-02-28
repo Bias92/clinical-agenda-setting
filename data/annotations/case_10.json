@@ -1,0 +1,50 @@
+{
+  "id": "case_10",
+  "annotations": [
+    {
+      "line_idx": 1,
+      "type": "agenda_item",
+      "summary": "Patient reports extreme fatigue for 2-3 months with unintentional weight gain."
+    },
+    {
+      "line_idx": 3,
+      "type": "detail",
+      "summary": "15-pound weight gain over three months with no lifestyle changes."
+    },
+    {
+      "line_idx": 5,
+      "type": "detail",
+      "summary": "Sleeping 8-9 hours but still exhausted with persistent daytime sleepiness."
+    },
+    {
+      "line_idx": 7,
+      "type": "detail",
+      "summary": "Dry flaky skin, hair thinning, and cold intolerance."
+    },
+    {
+      "line_idx": 9,
+      "type": "detail",
+      "summary": "Cognitive fog, difficulty concentrating, and depressed mood with anhedonia."
+    },
+    {
+      "line_idx": 11,
+      "type": "detail",
+      "summary": "Morning facial puffiness and tight rings indicating fluid retention."
+    },
+    {
+      "line_idx": 13,
+      "type": "detail",
+      "summary": "Heavier and more irregular menstrual periods."
+    },
+    {
+      "line_idx": 15,
+      "type": "detail",
+      "summary": "Family history of hypothyroidism in mother and sister."
+    },
+    {
+      "line_idx": 17,
+      "type": "detail",
+      "summary": "New onset constipation, decreased from daily to every three days."
+    }
+  ]
+}

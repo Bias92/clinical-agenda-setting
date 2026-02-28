@@ -1,0 +1,85 @@
+{
+  "id": "case_06",
+  "lines": [
+    {
+      "speaker": "Provider",
+      "text": "Hi there. What brings you in today?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "I've been having stomach pain and bloating for about three weeks. It's getting worse."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Where exactly is the pain?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "Upper part of my stomach, sometimes it moves to the right side."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Is the pain constant or does it come and go?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "It comes and goes. Worst after big meals or fatty foods."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Any nausea, vomiting, or diarrhea?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "Some nausea after meals. No vomiting but loose stools three or four times a week."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Any blood in your stool?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "No, nothing like that."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Any heartburn or acid reflux?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "Yes, burning sensation in my chest after eating, especially when I lie down."
+    },
+    {
+      "speaker": "Provider",
+      "text": "What's your diet like?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "A lot of fast food and spicy food. Coffee in the morning and soda all day."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Any medications?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "Daily aspirin for my heart, and Tums almost every day for the past two weeks."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Any weight loss?"
+    },
+    {
+      "speaker": "Patient",
+      "text": "About 5 pounds in the last month without trying."
+    },
+    {
+      "speaker": "Provider",
+      "text": "Let me do an abdominal exam."
+    },
+    {
+      "speaker": "Patient",
+      "text": "I hope it's nothing serious."
+    }
+  ]
+}
